@@ -1,0 +1,11 @@
+{
+  "name": "orbital-paper",
+  "version": "0.0.5",
+  "license": "MIT",
+  "type": "module",
+  "author": "",
+  "dependencies": {
+    "@diffusionstudio/vits-web": "^1.0.2",
+    "onnxruntime-web": "^1.18.0"
+  }
+}
